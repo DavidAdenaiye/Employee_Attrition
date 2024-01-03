@@ -69,8 +69,8 @@ Implement an inventory tracking system to avoid overstocking or shortages. Utili
 
 
 ### Thank You 
-For more info you can [Email me](davidadenaiyes@gmail.com)
+For more info you can [Email me](muideenadeakanni@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeadeakanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidadenaiye)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeadeakanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muideenadeakanni)  
 
 ![Data Analyst](https://github.com/princeadeakanni/WeCare-Attrition/blob/main/My%20banner.png)
